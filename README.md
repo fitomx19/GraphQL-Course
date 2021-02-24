@@ -7,7 +7,7 @@
 
 Para poder utilizarlo clonar el repositorio con:
 
-    -git clone https://github.com/fitomx19/GraphQL-Course
+    -git clone https://github.com/fitomx19/GraphQL-Course.git
 
 En la carpeta graphl-mongo abrirlo en Visual Studio y correr el comando en la terminal :
 
